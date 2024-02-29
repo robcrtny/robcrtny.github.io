@@ -1,2 +1,1 @@
-- [Rob Courtney](/about/rob.md)
 - View in [Github Pages](https://crtny.net/) or directly on [Github](https://github.com/robcrtny/robcrtny.github.io/) 
